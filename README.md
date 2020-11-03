@@ -3,8 +3,9 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hxinn&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxinn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxinn&&hide=vue,javascript,css,html" />
 </a>
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
